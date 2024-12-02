@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+beautifulsoup4
+wikipedia
+googletrans
+requests
